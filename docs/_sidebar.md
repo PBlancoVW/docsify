@@ -1,3 +1,6 @@
 
-* [Home](/)
-* [Guide](guide.md)
+- [Home](/)
+- [Guide](/guide.md)
+- zh-cn
+  - [Home](/zh-cn/)
+  - [Guide](/zh-cn/guide.md)
