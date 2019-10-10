@@ -1,5 +1,5 @@
 - [Home](/)
-- [Guide](/guide.md)
+- [Guide :100:](/guide.md)
 - zh-cn
   - [Home](/zh-cn/)
   - [Guide](/zh-cn/guide.md)
