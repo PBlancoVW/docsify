@@ -256,6 +256,25 @@ Quote break.
 > This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.
 
 
+
+# Notices
+
+```
+!> **Important** notice with `inline code` and additional placeholder text used
+to force the content to wrap and span multiple lines.
+
+?> **Tip** notice with `inline code` and additional placeholder text used to
+force the content to wrap and span multiple lines.
+```
+
+!> **Important** notice with `inline code` and additional placeholder text used
+to force the content to wrap and span multiple lines.
+
+?> **Tip** notice with `inline code` and additional placeholder text used to
+force the content to wrap and span multiple lines.
+
+
+
 # Inline HTML
 
 You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
