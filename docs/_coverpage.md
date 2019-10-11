@@ -1,6 +1,11 @@
-![logo](_media/logo.png)
+![logo](_media/logo.png ':size=200')
 
 # Vectorworks
 
-> A magical documentation site.
+> Share your knowledge with your colleagues.
 
+- Easy to write  
+- Searchable
+
+<!-- background image -->
+![](_media/fantasy_portal.jpg)
