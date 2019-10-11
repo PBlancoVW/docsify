@@ -7,5 +7,7 @@
 - Easy to write  
 - Searchable
 
+[Start](/start.md)
+
 <!-- background image -->
 ![](_media/fantasy_portal.jpg)
