@@ -7,3 +7,4 @@
   - [Guide](/zh-cn/guide.md)
 - Markdown help
   - [tips](/Markdown/tips.md)
+  - [emojis](/Markdown/emojis.md)
