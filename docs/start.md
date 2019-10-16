@@ -1,3 +1,3 @@
 # Headline
 
-> An awesome project is comming.
+> An awesome project is comming soon.
