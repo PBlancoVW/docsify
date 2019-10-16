@@ -21,6 +21,22 @@
 	  onlyCover: true,
 	  logo: '/_media/logo.png',
 	  search: 'auto'
+	  plugins: [
+		function(hook, vm) {
+		  hook.beforeEach(function(html) {
+			var url =
+			  'https://github.com/PBlancoVW/docsify/tree/master/docs/' +
+			  vm.route.file;
+			var editHtml = '[📝 EDIT DOCUMENT](' + url + ')\n';
+
+			return (
+			  html +
+			  '\n----\n' +
+			  editHtml
+			);
+		  });
+		}
+	  ]
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
